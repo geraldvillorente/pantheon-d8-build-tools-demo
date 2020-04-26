@@ -1,0 +1,14 @@
+uuid: 9a2007d3-f99c-4882-9b10-457dba2fbf23
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - geraldvillorente@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
